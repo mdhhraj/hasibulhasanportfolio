@@ -1,0 +1,324 @@
+2025-11-10 17:23:56 [error] cURL error 7: Failed to connect to 127.0.0.1 port 2083 after 0 ms: Could not connect to server
+
+ File: /home/vol1000_2/infinityfree.com/if0_36731610/htdocs/wp-content/plugins/auto-install-free-ssl/FreeSSLAuto/src/Admin/Factory.php
+ Line number: 333
+
+
+
+2025-11-10 17:23:59 [error] cURL error 7: Failed to connect to hasibulhasan.rf.gd port 2083 after 62 ms: Could not connect to server
+
+ File: /home/vol1000_2/infinityfree.com/if0_36731610/htdocs/wp-content/plugins/auto-install-free-ssl/FreeSSLAuto/src/Admin/Factory.php
+ Line number: 333
+
+
+
+2025-11-10 17:24:05 [error] cURL error 28: Operation timed out after 5312 milliseconds with 0 bytes received
+
+ File: /home/vol1000_2/infinityfree.com/if0_36731610/htdocs/wp-content/plugins/auto-install-free-ssl/FreeSSLAuto/src/Admin/Factory.php
+ Line number: 333
+
+
+
+2025-11-10 17:24:05 [error] cURL error 7: Failed to connect to hasibulhasan.rf.gd port 2083 after 0 ms: Could not connect to server
+
+ File: /home/vol1000_2/infinityfree.com/if0_36731610/htdocs/wp-content/plugins/auto-install-free-ssl/FreeSSLAuto/src/Admin/Factory.php
+ Line number: 333
+
+
+
+2025-11-10 17:24:11 [error] cURL error 28: Operation timed out after 5989 milliseconds with 0 bytes received
+
+ File: /home/vol1000_2/infinityfree.com/if0_36731610/htdocs/wp-content/plugins/auto-install-free-ssl/FreeSSLAuto/src/Admin/Factory.php
+ Line number: 333
+
+
+
+2025-11-10 17:29:44 [info] Starting new account registration
+
+2025-11-10 17:29:44 [info] Sending registration to the Let's Encrypt™ server
+
+2025-11-10 17:29:46 [info] Sending signed request to https://acme-v02.api.letsencrypt.org/acme/new-acct
+
+2025-11-10 17:29:46 [info] kid: https://acme-v02.api.letsencrypt.org/acme/acct/2790254576
+
+2025-11-10 17:29:46 [info] Congrats! A new account has been registered successfully.
+
+2025-11-10 17:29:46 [info] Generating SSL for hasibulhasan.rf.gd
+
+2025-11-10 17:29:46 [info] The domains array is given below: 
+
+2025-11-10 17:29:46 [info] <pre>Array
+(
+    [0] =&gt; hasibulhasan.rf.gd
+    [1] =&gt; www.hasibulhasan.rf.gd
+)
+</pre>
+
+2025-11-10 17:29:46 [info] Starting the SSL certificate generation process with ACME V2
+
+2025-11-10 17:29:46 [info] Requesting challenges for the array of domains
+
+2025-11-10 17:29:47 [info] Sending signed request to https://acme-v02.api.letsencrypt.org/acme/new-order
+
+2025-11-10 17:29:48 [error] Sorry, the Let's Encrypt™ server response (400) is unexpected. The complete server response is given below.
+
+2025-11-10 17:29:48 [error] <pre>Array
+(
+    [type] =&gt; urn:ietf:params:acme:error:badNonce
+    [detail] =&gt; JWS has an invalid anti-replay nonce
+    [status] =&gt; 400
+    [curlinfo_http_code] =&gt; 400
+)
+</pre>
+
+2025-11-10 17:29:48 [error] Closing the connection
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2025-11-10 17:37:10 [info] The account is already registered. Continuing...
+
+2025-11-10 17:37:10 [info] Generating SSL for hasibulhasan.rf.gd
+
+2025-11-10 17:37:10 [info] The domains array is given below: 
+
+2025-11-10 17:37:10 [info] <pre>Array
+(
+    [0] =&gt; hasibulhasan.rf.gd
+    [1] =&gt; www.hasibulhasan.rf.gd
+)
+</pre>
+
+2025-11-10 17:37:10 [info] Starting the SSL certificate generation process with ACME V2
+
+2025-11-10 17:37:10 [info] Requesting challenges for the array of domains
+
+2025-11-10 17:37:11 [info] Sending signed request to https://acme-v02.api.letsencrypt.org/acme/new-order
+
+2025-11-10 17:37:12 [info] Domain 1
+
+2025-11-10 17:37:12 [info] 'HTTP-01' challenge found.
+
+2025-11-10 17:37:12 [info] We got the challenge token for hasibulhasan.rf.gd.
+
+2025-11-10 17:37:12 [info] Domain 2
+
+2025-11-10 17:37:12 [info] 'HTTP-01' challenge found.
+
+2025-11-10 17:37:12 [info] We got the challenge token for www.hasibulhasan.rf.gd.
+
+2025-11-10 18:16:22 [info] The account is already registered. Continuing...
+
+2025-11-10 18:16:22 [info] Verifying domain ownership of hasibulhasan.rf.gd
+
+2025-11-10 18:16:24 [error] The content of the challenge URI (http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:16:24 [error] 1st Internal Validation: Payload content (Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.
+
+2025-11-10 18:16:24 [info] .htaccess rules have been created successfully in the '.well-known' directory.
+
+2025-11-10 18:16:24 [error] The content of the challenge URI (http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:16:24 [error] 2nd Internal Validation: Payload content (Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.
+
+2025-11-10 18:16:24 [info] Verifying domain ownership of www.hasibulhasan.rf.gd
+
+2025-11-10 18:16:24 [error] The content of the challenge URI (http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:16:24 [error] 1st Internal Validation: Payload content (kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.
+
+2025-11-10 18:16:24 [info] .htaccess rules have been created successfully in the '.well-known' directory.
+
+2025-11-10 18:16:24 [error] The content of the challenge URI (http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:16:24 [error] 2nd Internal Validation: Payload content (kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.
+
+2025-11-10 18:20:34 [info] The account is already registered. Continuing...
+
+2025-11-10 18:20:34 [info] Verifying domain ownership of hasibulhasan.rf.gd
+
+2025-11-10 18:20:34 [error] The content of the challenge URI (http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:20:34 [error] 1st Internal Validation: Payload content (Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.
+
+2025-11-10 18:20:34 [info] .htaccess rules have been created successfully in the '.well-known' directory.
+
+2025-11-10 18:20:34 [error] The content of the challenge URI (http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:20:34 [error] 2nd Internal Validation: Payload content (Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.
+
+2025-11-10 18:20:34 [info] Verifying domain ownership of www.hasibulhasan.rf.gd
+
+2025-11-10 18:20:34 [error] The content of the challenge URI (http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:20:34 [error] 1st Internal Validation: Payload content (kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.
+
+2025-11-10 18:20:34 [info] .htaccess rules have been created successfully in the '.well-known' directory.
+
+2025-11-10 18:20:34 [error] The content of the challenge URI (http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:20:34 [error] 2nd Internal Validation: Payload content (kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.
+
+2025-11-10 18:31:30 [info] The account is already registered. Continuing...
+
+2025-11-10 18:31:30 [info] Verifying domain ownership of hasibulhasan.rf.gd
+
+2025-11-10 18:31:30 [error] The content of the challenge URI (http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:31:30 [error] 1st Internal Validation: Payload content (Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.
+
+2025-11-10 18:31:30 [info] .htaccess rules have been created successfully in the '.well-known' directory.
+
+2025-11-10 18:31:30 [error] The content of the challenge URI (http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:31:30 [error] 2nd Internal Validation: Payload content (Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.
+
+2025-11-10 18:31:30 [info] Verifying domain ownership of www.hasibulhasan.rf.gd
+
+2025-11-10 18:31:30 [error] The content of the challenge URI (http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:31:30 [error] 1st Internal Validation: Payload content (kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.
+
+2025-11-10 18:31:30 [info] .htaccess rules have been created successfully in the '.well-known' directory.
+
+2025-11-10 18:31:30 [error] The content of the challenge URI (http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:31:30 [error] 2nd Internal Validation: Payload content (kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.
+
+2025-11-10 18:49:37 [info] The account is already registered. Continuing...
+
+2025-11-10 18:49:37 [info] Verifying domain ownership of hasibulhasan.rf.gd
+
+2025-11-10 18:49:37 [error] The content of the challenge URI (http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:49:37 [error] 1st Internal Validation: Payload content (Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.
+
+2025-11-10 18:49:37 [info] .htaccess rules have been created successfully in the '.well-known' directory.
+
+2025-11-10 18:49:37 [error] The content of the challenge URI (http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:49:37 [error] 2nd Internal Validation: Payload content (Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://hasibulhasan.rf.gd/.well-known/acme-challenge/Z73kKWgyrZ9zwmchAqDA62V2sfdGtevhMQnkZsgDpDY.
+
+2025-11-10 18:49:37 [info] Verifying domain ownership of www.hasibulhasan.rf.gd
+
+2025-11-10 18:49:37 [error] The content of the challenge URI (http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:49:37 [error] 1st Internal Validation: Payload content (kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.
+
+2025-11-10 18:49:37 [info] .htaccess rules have been created successfully in the '.well-known' directory.
+
+2025-11-10 18:49:37 [error] The content of the challenge URI (http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M) is given below: <br />
+<pre>&lt;html&gt;
+&lt;head&gt;&lt;title&gt;403 Forbidden&lt;/title&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;center&gt;&lt;h1&gt;403 Forbidden&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;&lt;center&gt;openresty&lt;/center&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+2025-11-10 18:49:37 [error] 2nd Internal Validation: Payload content (kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.VyVUwDo55anRvYNMi6_EcXJow3u124LAmIMgPOrDXiU) does not match the content of the challenge URI http://www.hasibulhasan.rf.gd/.well-known/acme-challenge/kyfR1L5qlArUbaChPX0GL2ztR60Dm4Hiphj2q5vps5M.
+

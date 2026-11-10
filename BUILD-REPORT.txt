@@ -1,0 +1,19 @@
+Site title: Hasibul Hasan
+Published pages: 10
+Published posts: 23
+Media files copied: 535
+Media bytes: 65671804
+
+Pages:
+/
+/about/
+/contact/
+/portfolio/
+/privacy-policy/
+/my-blog/
+/terms-and-conditions/
+/download/
+/cookies-policy/
+/disclaimer/
+
+Note: Divi builder modules have been translated to static HTML structures. Compare each page with the live site before replacing the original.
